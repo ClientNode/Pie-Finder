@@ -1,2 +1,3 @@
 # Pie-Finder
- This python program will find a pie within the xml file. It will return the steps to make that pie. You can also enter an ingredient and the program will find what you can make with that ingredient.
+Returns the steps to make a pie that is located in an xml file.
+Returns what pies you can make with a certain ingredient.
