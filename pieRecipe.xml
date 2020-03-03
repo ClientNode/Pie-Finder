@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<recipebook>
+	<recipe xml:id="P_OreoPie">
+		<pieName>Oreo Cookie Pie</pieName>
+		
+		<ingredient xml:id="I_icecream">ice cream</ingredient>
+		<ingredient xml:id="I_pudding">pudding mix</ingredient>
+		<ingredient xml:id="I_cookie">oreo cookies</ingredient>
+		
+		<instruction>
+			<step>Spread softened ice cream evenly inside piecrust; freeze 1 hour.</step>
+			<step>Whisk together half-and-half and pudding mix in a medium bowl until blended and thickened, about 2 minutes. Spoon mixture evenly over frozen ice cream in piecrust. Freeze 1 hour. Meanwhile, crush 5 of the cookies.</step>
+			<step>Place whipped topping in a bowl; fold in crushed cookies. Spread mixture evenly over frozen chocolate layer in piecrust. Freeze 30 minutes. Meanwhile, crush remaining 5 cookies.</step>
+			<step>Sprinkle pie with remaining crushed cookies; slice and serve.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="SaltedGrapefruitPie">
+		<pieName>Salted Grapefruit Pie</pieName>
+
+		<ingredient xml:id="I_flour">flour</ingredient>
+		<ingredient xml:id="I_salt">salt</ingredient>
+		<ingredient xml:id="I_butter">butter</ingredient>
+		<ingredient xml:id="I_egg">egg</ingredient>
+		<ingredient xml:id="I_tapiocaFlour">tapioca flour</ingredient>
+		<ingredient xml:id="I_juice">juice</ingredient>
+		<ingredient xml:id="I_sugar">sugar</ingredient>
+		<ingredient xml:id="I_whippedCream">whipped cream</ingredient>
+
+		<instruction>
+			<step>Prepare the Crust: Pulse flours and salt in a food processor until combined. Add butter, and pulse until loose crumbs form, 4 to 5 times. Add egg; pulse until dough comes together, about 3 times. Place dough on a sheet of parchment paper, and press into a 6-inch disk. Wrap with parchment, and refrigerate at least 1 hour or up to overnight.</step>
+			<step>Preheat oven to 375°F. Dust a 15-inch square sheet of parchment paper with tapioca flour. Unwrap dough disk, and place in center of dusted parchment sheet. Roll to a 12-inch circle. Invert parchment, fitting crust into a 9-inch round tart pan with removable bottom. Trim any dough overhang, and use to patch cracks or to build up sides, as needed. Refrigerate 30 minutes. Prick bottom all over with a fork. Top with a parchment sheet, and fill with pie weights. Bake in preheated oven 20 minutes. Remove pie weights and parchment. Continue to bake until crust is golden and dried, about 10 minutes. Shield edges with aluminum foil to prevent overbrowning, if necessary. Let cool completely on a wire rack, about 30 minutes.</step>
+			<step>Prepare the Filling: Heat juice, sugar, tapioca flour, and salt in a heavy saucepan over medium-high, stirring often, until small bubbles form around edges of pan, 6 to 8 minutes. Meanwhile, whisk yolks in a medium bowl. Add 1 cup hot juice mixture to the yolks, 1/4 cup at a time, whisking constantly until smooth. Add yolk mixture to pan with remaining juice mixture, and cook over medium heat, stirring often, until thickened and large bubbles form, 3 to 4 minutes. Continue cooking, stirring constantly, 1 minute. Remove from heat. Let cool slightly, about 2 minutes. Whisk in butter until smooth. Stir in food coloring. Let cool 15 minutes. Pour into unmolded tart shell, and refrigerate until set, 4 to 6 hours. Top with whipped cream, and serve.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="ButterfingerPie">
+		<pieName>Butterfinger Pie</pieName>
+		
+		<ingredient xml:id="I_creamCheese">cream cheese</ingredient>
+		<ingredient xml:id="I_peanutButter">peanut butter</ingredient>
+		<ingredient xml:id="I_vanillaExtract">vanilla extract</ingredient>
+		<ingredient xml:id="I_powderedSugar">powdered sugar</ingredient>
+		<ingredient xml:id="I_butterfingers">butterfingers</ingredient>
+		<ingredient xml:id="I_chocolateSyrup">chocolate syrup</ingredient>
+
+		<instruction>
+			<step>Beat together cream cheese, peanut butter, and vanilla in the bowl of an electric stand mixer until smooth and creamy. Gradually add powdered sugar, and beat until fully combined.</step>
+			<step>Using a rubber spatula, fold in 2 cups of the crushed Butterfingers until evenly distributed. Fold in half of the whipped topping until combined, then fold in remaining whipped topping.</step>
+			<step>Spread mixture into the crust, and refrigerate 4 hours or up to overnight.</step>
+			<step>Sprinkle with remaining 1/2 cup crushed Butterfingers, drizzle with chocolate syrup and serve.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="BaconApplePie">
+		<pieName>Bacon Apple Pie</pieName>
+		
+		<ingredient xml:id="I_brownSugar">brown sugar</ingredient>
+		<ingredient xml:id="I_apple">apples</ingredient>
+		<ingredient xml:id="I_bacon">bacon</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 350°. Unroll piecrust, and fit into a 9-inch pie plate. Fold edges under.</step>
+			<step>Stir together brown sugar and next 5 ingredients with a fork in a large bowl. Add apple slices, tossing to coat. Arrange apple slices in prepared crust, spooning sugar and accumulated juices over apple.</step>
+			<step>Arrange bacon slices in a lattice design over filling; gently press ends of strips, sealing to piecrust.</step>
+			<step>Cover pie with aluminum foil. Place pie on a baking sheet. Bake at 350° for 1 hour. Remove foil. Bake for 40 more minutes or until crust is golden brown and bacon is crisp.</step>
+			<step>Remove pie from baking sheet, and let cool on a wire rack for at least 1 hour before cutting into wedges.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="PeanutButterandJellyPie">
+		<pieName>Peanut Butter and Jelly Pie</pieName>
+	
+		<ingredient xml:id="I_sugar">sugar</ingredient>
+		<ingredient xml:id="I_cinnamon">cinnamon</ingredient>
+		<ingredient xml:id="I_butter">butter</ingredient>
+		<ingredient xml:id="I_peanutButter">peanut butter</ingredient>
+		<ingredient xml:id="I_creamCheese">cream cheese</ingredient>
+		<ingredient xml:id="I_jelly">jelly</ingredient>
+		<ingredient xml:id="I_peanut">peanuts</ingredient>
+		<ingredient xml:id="I_salt">salt</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 325°F. Trim crusts from bread. Set aside half of crusts; discard remaining crusts or reserve for another use. Using a rolling pin, flatten each bread slice. Layer flattened bread slices inside a 9-inch pie pan to cover bottom and sides.</step>
+			<step>Stir together granulated sugar and cinnamon in a small bowl. Stir together 2 tablespoons of the melted butter and half of the cinnamon-sugar in a small bowl; brush mixture over bread slices. Bake in preheated oven until lightly golden and dry, 12 to 15 minutes. Cool completely, about 20 minutes.</step>
+			<step>Beat peanut butter, cream cheese, and powdered sugar in a medium bowl with an electric mixer until smooth. Stir in whipped cream. Spread half of peanut butter mixture in cooled crust. Chill 20 minutes.</step>
+			<step>Meanwhile, place jelly in a small saucepan. Cook over medium, whisking constantly, until smooth. Stir together cornstarch and water in a small bowl; add to jelly, and stir to combine. Bring mixture to a boil. Reduce heat to medium-low, and simmer 2 minutes. Remove from heat, and cool to room temperature, about 15 minutes.</step>
+			<step>Pulse reserved crusts in a food processor until coarsely chopped. Stir together chopped crusts, peanuts, salt, and remaining 2 tablespoons melted butter and cinnamon-sugar mixture in a medium bowl. Spread mixture evenly on a rimmed baking sheet. Bake at 325°F until golden brown, about 10 minutes.</step>
+			<step>Pour cooled jelly mixture over pie, and top evenly with remaining peanut butter mixture. Sprinkle evenly with crust mixture. Refrigerate until set, about 4 hours.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="PumpkinSpiceLattePieWithCoffeeLiquerWhippedCream">
+		<pieName>Pumpkin Spice Latte Pie with Coffee Liquer Whipped Cream</pieName>
+	
+		<ingredient>
+			<item xml:id="I_half-and-half">half-and-half</item>
+			<item xml:id="I_coffee">coffee</item>
+			<item xml:id="I_brownSugar">brown sugar</item>
+			<item xml:id="I_egg">eggs</item>
+			<item xml:id="I_flour">flour</item>
+			<item xml:id="I_salt">salt</item>
+			<item xml:id="I_pumpkinPieSpice" quantity="1.5" units="teaspoons">pumpkin pie spice</item>
+			<item xml:id="I_granulatedSugar">granulated sugar</item>
+			<item xml:id="I_cream">cream</item>
+			<item xml:id="I_coffeeLiqueur">coffee liqueur</item>
+			<item xml:id="I_powderedSugar">powdered sugar</item>
+		</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 350°. Fit 1 piecrust in a lightly greased (with cooking spray) 9-inch pie pan; fold edge of crust under rim of pan.</step>
+			<step>Whisk together pumpkin, half-and-half, coffee, brown sugar, coffee, eggs, flour, salt, and 1 1/2 teaspoons of the pumpkin pie spice in a large bowl until smooth and well incorporated. Pour mixture into prepared piecrust. Shield edge of crust with aluminum foil. Bake in preheated oven 45 minutes.</step>
+			<step>Meanwhile, place remaining piecrust on a very lightly floured work surface. Using a pastry wheel or knife, cut 10 (1/2-inch-wide) strips and 10 (1/4-inch-wide) strips. Lightly twist 2 of the 1/2-inch strips together; repeat with remaining 1/2-inch strips. Lightly twist 2 of the 1/4-inch strips together; repeat with remaining 1/4-inch strips. (You may need more 1/4-inch strips to wrap around pie.)</step>
+			<step>Remove pie from oven. Reduce oven temperature to 325°. Remove and discard foil. Gently arrange twisted strips horizontally and vertically on pie. Lightly brush edge of crust with egg white, and place about 3 of the 1/4-inch twisted strips around edge of pie. Brush all strips with egg white. Stir together granulated sugar and remaining 1/4 teaspoon pumpkin pie spice. Sprinkle evenly over strips.</step>
+			<step>Bake at 325° until golden brown and filling is set, about 30 minutes, covering pie with foil after 15 to 20 minutes to prevent excessive browning. Cool completely on a wire rack before serving, about 2 hours. Serve with Coffee Liqueur Whipped Cream.</step>
+			<step>To prepare the Coffee Liqueur Whipped Cream, beat cream and coffee liqueur with an electric mixer on medium-high speed until foamy. Gradually add powdered sugar, beating until medium peaks form. Chill until ready to use.</step>
+		</instruction>
+	</recipe>
+
+	<recipe xml:id="StrawberryPie">
+		<pieName>Strawberry Pie</pieName>
+		
+		<ingredient xml:id="I_strawberry">strawberries</ingredient>
+		<ingredient xml:id="I_sugar">sugar</ingredient>
+		<ingredient xml:id="I_cornstrach">cornstarch</ingredient>
+		<ingredient xml:id="I_tapiocaFlour">tapioca</ingredient>
+		<ingredient xml:id="I_limeZest">lime zest</ingredient>
+		<ingredient xml:id="I_limeJuice">lime juice</ingredient>
+		<ingredient xml:id="I_vanillaExtract">vanilla extract</ingredient>
+		<ingredient xml:id="I_butter">butter</ingredient>
+		<ingredient xml:id="I_flour">flour</ingredient>
+		<ingredient xml:id="I_egg">egg</ingredient>
+		<ingredient xml:id="I_water">water</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 425°F. Unroll 1 piecrust, and fit into a 9-inch pie plate. Stir together strawberries, sugar, cornstarch, tapioca, lime zest, lime juice, and vanilla in a large bowl. Spoon mixture into prepared pie plate; top evenly with butter cubes.</step>
+			<step>Roll out remaining piecrust onto a lightly floured surface. Cut into 1 1/4-inch-wide strips; place on top of pie in a lattice pattern. Whisk together egg and water in a small bowl; brush lattice and edges of pie with egg mixture. Sprinkle evenly with demerara sugar. Place pie on a baking sheet lined with aluminum foil.</step>
+			<step>Bake in preheated oven until edges are golden brown, 15 to 20 minutes. Reduce oven temperature to 375°F; cover edges of pie with aluminum foil. Bake until pie is bubbling and crust is golden brown, 45 to 50 minutes. Transfer to a wire rack, and cool completely, about 3 hours.</step>
+		</instruction>
+	</recipe>
+
+	<recipe xml:id="CheddarApplePearPie">
+		<pieName>Cheddar Apple-Pear Pie</pieName>
+		
+		<ingredient xml:id="I_bacon">bacon</ingredient>
+		<ingredient xml:id="I_cookingSpray" alias="grease">cooking spray</ingredient>
+		<ingredient xml:id="I_apple">apples</ingredient>
+		<ingredient xml:id="I_pear">pears</ingredient>
+		<ingredient xml:id="I_brownSugar">brown sugar</ingredient>
+		<ingredient xml:id="I_flour">flour</ingredient>
+		<ingredient xml:id="I_cinnamon">cinnamon</ingredient>
+		<ingredient xml:id="I_salt">salt</ingredient>
+		<ingredient xml:id="I_granulatedSugar" quantity="1.5" units="cups">granulated sugar</ingredient>
+		<ingredient xml:id="I_cheddarCheese">cheddar cheese</ingredient>
+		<ingredient xml:id="I_butter">butter</ingredient>
+		<ingredient xml:id="I_egg">eggs</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 375°.</step>
+			<step>Fit 1 piecrust in a lightly greased (with cooking spray) 9-inch pie pan. Sprinkle chopped bacon over bottom of crust, pressing gently with the bottom of a glass or the palm of your hand to adhere. Fold edge of crust under rim of pan, and crimp edge with a teaspoon.</step>
+			<step>Toss together apples, pears, brown sugar, flour, cinnamon, salt, and 1/2 cup of the granulated sugar in a large bowl; let stand 15 minutes. Stir in Cheddar. Spoon mixture evenly into piecrust, gently pressing mixture into crust and mounding slightly in center. Dot filling evenly with butter.</step>
+			<step>Unroll remaining piecrust on a very lightly floured work surface. Cut out various leaf shapes using 2- to 2 1/2-inch leaf-shaped cutters. Arrange leaves decoratively over filling. Brush leaves and edge of crust with egg white, and sprinkle with remaining 1 tablespoon granulated sugar.</step>
+			<step>Place pie on an aluminum foil-lined baking sheet. Bake in preheated oven 40 minutes. Cover pie loosely with aluminum foil, and bake 1 hour. Cool on a wire rack at least 2 hours before slicing</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="BlueberryLavenderPie">
+		<pieName>Blueberry Lavender Pie</pieName>
+		
+		<ingredient xml:id="I_tapiocaFlour">tapioca</ingredient>
+		<ingredient xml:id="I_lavender">lavender</ingredient>
+		<ingredient xml:id="I_salt">salt</ingredient>
+		<ingredient xml:id="I_brownSugar" quantity="1.25" units="cups">brown sugar</ingredient>
+		<ingredient xml:id="I_blueberries">blueberries</ingredient>
+		<ingredient xml:id="I_lemonJuice">lemon juice</ingredient>
+		<ingredient xml:id="I_almonds">almonds</ingredient>
+		<ingredient xml:id="I_flour">flour</ingredient>
+		<ingredient xml:id="I_butter">butter</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 400°F. Unroll piecrust, and place in a 9-inch pie plate; flute edges.</step>
+			<step>Process tapioca, lavender, salt, and 1/2 cup of the brown sugar in a food processor until thoroughly combined and finely ground, about 1 minute.</step>
+			<step>Toss together blueberries and brown sugar mixture in a large bowl. Gently stir in blueberry preserves and lemon juice until thoroughly combined. Spoon mixture into prepared pie plate. Stir together almonds, flour, and remaining 3/4 cup brown sugar in a medium bowl; stir in melted butter until thoroughly combined. Sprinkle almond mixture over blueberry mixture.</step>
+			<step>Bake in preheated oven 15 minutes. Cover pie with aluminum foil, and bake until top is golden brown and pie is bubbling, 40 to 45 minutes. Transfer to a wire rack, and cool completely, about 3 hours.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="PumpkinPie">
+		<pieName>Pumpkin Pie</pieName>
+		
+		<ingredient xml:id="I_buttermilk">buttermilk</ingredient>
+		<ingredient xml:id="I_pumpkin">pumpkin</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 425°. Fit 1 piecrust into a 9-inch metal pie pan according to package directions, pressing excess dough onto rim of pie pan. Cut shapes from remaining piecrust to use around pie edge. (We used a 1/2-inch round cutter.) Brush 1 Tbsp. buttermilk around pie edge; arrange shapes around pie edge, pressing to adhere. Brush shapes with 1 Tbsp. buttermilk. Prick bottom and sides of piecrust 8 to 10 times with a fork. Line piecrust with parchment paper, and fill with pie weights. Bake 15 minutes.</step>
+			<step>Whisk together pumpkin, next 6 ingredients, and remaining 1 1/2 cups buttermilk in a large bowl. Pour mixture into piecrust.</step>
+			<step>Bake at 425° for 10 minutes. Reduce heat to 325°, and bake 35 to 40 more minutes or until edge of filling is slightly puffed and center is slightly jiggly. Cool on a wire rack 1 hour. Store in refrigerator up to 2 days.</step>
+		</instruction>
+	</recipe>
+
+	<recipe xml:id="ApplePie">
+		<pieName>Apple Pie</pieName>
+
+		<ingredient xml:id="I_cookingSpray">cooking spray</ingredient>
+		<ingredient xml:id="I_cookie">cookies</ingredient>
+		<ingredient xml:id="I_butter">butter</ingredient>
+		<ingredient xml:id="I_granulatedSugar">granulated sugar</ingredient>
+		<ingredient xml:id="I_apple">apples</ingredient>
+		<ingredient xml:id="I_cornstrach">constrach</ingredient>
+		<ingredient xml:id="I_brownSugar">brown sugar</ingredient>
+		<ingredient xml:id="I_cinnamon">cinnamon</ingredient>
+		<ingredient xml:id="I_salt">salt</ingredient>
+		<ingredient xml:id="I_nutmeg">nutmeg</ingredient>
+		<ingredient xml:id="I_allpice">allpice</ingredient>
+		<ingredient xml:id="I_vanillaExtract">vanilla extract</ingredient>
+		<ingredient xml:id="I_cream">cream</ingredient>
+		<ingredient xml:id="I_powderedSugar">powdered sugar</ingredient>
+		<ingredient xml:id="I_mascarponeCheese">mascarpone cheese</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 325°F. Coat a 12-cup muffin pan with cooking spray.</step>
+			<step>Place cookies in the bowl of a food processor; process until coarsely ground. Transfer cookie crumbs to a large bowl; stir in 6 tablespoons of the melted butter and granulated sugar until combined. Evenly distribute crumb mixture in prepared muffin pan, and form crusts by pressing mixture along bottom and up sides of each of the 12 cups. Bake in preheated oven until golden-brown, about 10 minutes; cool 10 minutes.</step>
+			<step>Combine apples and cornstarch in a medium bowl; toss to coat. Heat a large skillet over medium-high. Add remaining 4 tablespoons butter and coated apples to skillet; cook, stirring often, until softened, about 5 minutes. Stir in brown sugar, cinnamon, salt, nutmeg, allspice, and 1 teaspoon of the vanilla extract. Stir often, until sugar begins to dissolve and bubble; reduce heat to medium-low. Add rum, and cook, stirring often, 3 minutes. Remove from heat, and let cool slightly.</step>
+			<step>Beat cream with an electric mixer on medium speed until stiff peaks form. Fold in mascarpone, powdered sugar, and remaining 1/2 teaspoon vanilla extract.</step>
+			<step>Very gently remove cookie crusts from pan, and assemble the pies. Divide apple filling evenly among crusts, and top each with a dollop of whipped mascarpone topping. Serve immediately.</step>
+		</instruction>
+
+	</recipe>
+	<recipe xml:id="StrawberryYogurtPie">
+		<pieName>Strawberry Yogurt Pie</pieName>
+		
+		<ingredient xml:id="I_cereal">cereal</ingredient>
+		<ingredient xml:id="I_grahamCracker">graham crackers</ingredient>
+		<ingredient xml:id="I_butter">butter</ingredient>
+		<ingredient xml:id="I_sugar">sugar</ingredient>
+		<ingredient xml:id="I_whippedCream">whipped cream</ingredient>
+		<ingredient xml:id="I_yogurt">yogurt</ingredient>
+		<ingredient xml:id="I_creamCheese">cream cheese</ingredient>
+		<ingredient xml:id="I_puddingMix">pudding mix</ingredient>
+		<ingredient xml:id="I_berries">berries</ingredient>
+		
+		<instruction>
+			<step>Preheat oven to 350°.</step>
+			<step>In a food processor, pulse cereal and graham crackers until fine crumbs form, about 1 minute. Transfer crumb mixture to a medium bowl and stir in butter and sugar until fully combined. Using your hands, press crumb mixture evenly along the bottom and sides of a 9-inch pie pan. Bake at 350° for 8-10 minutes. Let crust cool completely, at least 1 hour.</step>
+			<step>In the bowl of a stand mixer, combine whipped topping, yogurt, cream cheese, and pudding mix. Pour into baked and cooled pie crust and freeze for at least 2 hours or until filling is set. Garnish with fresh berries.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="ApplePearPie">
+		<pieName>Apple Pear Pie</pieName>
+		
+		<ingredient xml:id="I_flour">flour</ingredient>
+		<ingredient xml:id="I_cookie">cookies</ingredient>
+		<ingredient xml:id="I_sugar">sugar</ingredient>
+		<ingredient xml:id="I_salt">salt</ingredient>
+		<ingredient xml:id="I_butter">butter</ingredient>
+		<ingredient xml:id="I_buttermilk">buttermilk</ingredient>
+		<ingredient xml:id="I_brownSugar">brown sugar</ingredient>
+		<ingredient xml:id="I_cookieButter">cookie butter</ingredient>
+		<ingredient xml:id="I_half-and-half">half-and-half</ingredient>
+		<ingredient xml:id="I_water">water</ingredient>
+		<ingredient xml:id="I_apple">apples</ingredient>
+		<ingredient xml:id="I_pear">pears</ingredient>
+		<ingredient xml:id="I_vinegar">vinegar</ingredient>
+		<ingredient xml:id="I_vanillaExtract">vanilla extract</ingredient>
+		<ingredient xml:id="I_cinnamon">cinnamon</ingredient>
+		<ingredient xml:id="I_pecans">pecans</ingredient>
+		
+		<instruction>
+			<step>Prepare the Crust: Whisk together flour, cookie crumbs, sugar, and salt in a large bowl. Add cold butter pieces to bowl, and use fingertips to work butter quickly into flour mixture. Using a fork, stir buttermilk, 1 tablespoon at a time, into flour mixture until moistened and dough begins to come together.</step>
+			<step>Gently knead dough until it comes together completely (2 to 3 times). Press into a disk and wrap tightly with plastic wrap; chill 1 hour.</step>
+			<step>Preheat oven to 375°F. Remove dough from refrigerator. Roll dough into an 11-inch round on a lightly floured surface. Transfer dough to a 9 1/2-inch deep-dish pie plate; gently press into edges of dish and seal any tears. Fold overhanging dough over edge of dish to form a crust (crimp as desired). Chill until ready to fill.</step>
+			<step>Prepare the Cookie Butter Caramel: Heat butter and brown sugar in a medium saucepan over medium-low, stirring often, until butter and sugar melt. Whisk in cookie butter until melted and combined. Whisk in half-and-half, and cook, whisking constantly, until smooth and heated through. Remove from heat, and stir in salt.</step>
+			<step>Prepare the Filling: Bring 8 cups water to a boil in a large saucepan over high. While water is heating, peel, core, and slice apples and pears into 1/8-inch-thick slices; transfer fruit to a large heatproof bowl. When water reaches a boil, pour over fruit; let stand 10 minutes. Drain well; pat slices dry with a clean towel. Return fruit to bowl.</step>
+			<step>Sprinkle sugar, flour, vinegar, vanilla, cinnamon, and salt over fruit; toss gently to combine. Stir in 1 1/2 cups of the prepared Cookie Butter Caramel.</step>
+			<step>To assemble pie, pour Filling into prepared Crust; gently press into an even layer using a rubber spatula. Place pie on a rimmed baking sheet (to catch any spills). Bake in preheated oven for 25 minutes.</step>
+			<step>Prepare the Topping: Whisk together flour, cookie crumbles, pecans, brown sugar, and salt in a medium bowl. Cut butter into flour mixture using a fork or your fingertips until clumps form. Sprinkle Topping evenly over pie. Increase oven temperature to 400°F,and bake until topping is golden brown, 15 to 18 minutes. Cool slightly before cutting.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="Maple Peanut Pie">
+		<pieName>Maple Peanut Pie</pieName>
+		
+		<ingredient>flour</ingredient>
+		<ingredient>sugar</ingredient>
+		<ingredient>butter</ingredient>
+		<ingredient>water</ingredient>
+		<ingredient>eggs</ingredient>
+		<ingredient>brown sugar</ingredient>
+		<ingredient>salt</ingredient>
+		<ingredient>maple syrup</ingredient>
+		<ingredient>peanut butter</ingredient>
+		<ingredient>vanilla extract</ingredient>
+		<ingredient>peanuts</ingredient>
+		<ingredient>flaky sea salt</ingredient>
+		
+		<instruction>
+			<step>Prepare the Crust: Stir together 3 cups flour, 1 tablespoon sugar, and 1 teaspoon salt in a large bowl. Using a pastry blender, cut cold butter and shortening cubes into flour mixture until mixture resembles small peas. Using a fork, gradually stir in 8 tablespoons ice water, stirring until dry ingredients are moistened and dough begins to form a ball and pulls away from sides of bowl, adding up to 2 tablespoons more water, 1 tablespoon at a time, if necessary. Turn dough out onto a work surface; divide in half. Shape and flatten each dough half into a disk. Wrap each in plastic wrap, and chill 1 to 24 hours.</step>
+			<step>Preheat oven to 425°F. Unwrap 1 chilled dough disk, and place on a lightly floured surface. Let the dough stand at room temperature until slightly softened, about 5 minutes. Sprinkle dough with flour, and roll into a 13-inch circle. Fit dough into a 9-inch glass pie plate. Trim dough, leaving 1/2-inch overhang; fold edges under. Prick bottom and sides 8 to 10 times with a fork.</step>
+			<step>Unwrap remaining chilled dough disk, and place on a lightly floured surface. Sprinkle with flour, and roll into a 12-inch circle. Cut dough with a 2-inch maple leaf-shaped cutter. Cut dough leaves in half lengthwise. Brush some of the beaten egg around edges of piecrust. Arrange dough half-leaf shapes around edge of crust, pressing to adhere, and brush with remaining beaten egg. Freeze 20 minutes. Line piecrust with parchment paper, and fill with pie weights or dried beans.</step>
+			<step>Bake in preheated oven 14 minutes. Remove weights and parchment paper, and bake until crust has lost its raw dough sheen, 5 to 7 minutes. Transfer to a wire rack, and cool completely, about 30 minutes. Reduce oven temperature to 350°F.</step>
+			<step>Prepare Peanut Filling: Whisk together brown sugar, 2 teaspoons flour, and 1/4 teaspoon salt in a large bowl until blended. Add maple syrup, peanut butter, vanilla, and 1/2 cup melted butter; whisk until blended. Add 3 eggs, 1 at a time, whisking until blended after each addition. Stir in peanuts. Spoon peanut filling into prepared piecrust. Place pie on a rimmed baking sheet.</step>
+			<step>Bake at 350°F until center is set, 55 to 60 minutes, shielding edges with aluminum foil to prevent excessive browning, if necessary. Transfer to a wire rack, and cool completely, about 3 hours. Sprinkle pie with flaky sea salt, if desired.</step>
+			<step>Note: The intense flavor of Grade B maple syrup, usually tapped at the end of the sugaring season just before the maple trees bud, is perfect for piemaking.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="ChocolatePie">
+		<pieName>Chocolate Pie</pieName>
+		
+		<ingredient>graham crackers</ingredient>
+		<ingredient>butter</ingredient>
+		<ingredient>granulated sugar</ingredient>
+		<ingredient>marshmallows</ingredient>
+		<ingredient>chocolate chips</ingredient>
+		<ingredient>cream</ingredient>
+		<ingredient>salt</ingredient>
+		<ingredient>vanilla</ingredient>
+		<ingredient>whiskey</ingredient>
+		<ingredient>eggs</ingredient>
+		<ingredient>sugar</ingredient>
+		<ingredient>corn syrup</ingredient>
+		<ingredient>cream of tartar</ingredient>
+		<ingredient>vanilla bean paste</ingredient>
+		
+		<instruction>
+			<step>Prepare the Graham Cracker Crust: Preheat oven to 350°F. Place graham cracker crumbs, melted butter, and granulated sugar in a medium bowl. Stir until mixture is well combined and resembles damp sand. Press on bottom and up sides of a 9-inch deep-dish glass pie plate.</step>
+			<step>Bake in preheated oven until crust is firm, dry, and lightly browned, about 10 minutes. Transfer to a wire rack, and cool to room temperature, about 20 minutes.</step>
+			<step>Prepare the Marshmallow Layer: Spread marshmallows in an even layer on bottom of baked Graham Cracker Crust. Return crust to preheated oven, and bake just until marshmallows begin to melt, about 3 minutes. (Do not let marshmallows turn brown or crisp.) Remove from oven, and spread melted marshmallows into an even layer using a small offset spatula or the back of a teaspoon. Cool to room temperature, about 20 minutes.</step>
+			<step>Prepare the Chocolate Filling: Combine chocolate chips in a large bowl. Bring cream to a simmer in a medium saucepan over medium-high. Cook until cream is very hot and bubbles start to form around edges of pan. Remove from heat, and immediately pour over chocolate chips. Let stand 1 minute. Add butter and salt, and whisk until chocolate is completely melted and mixture is smooth. Gently whisk in vanilla, and, if desired, whiskey. Cool to room temperature, 15 to 20 minutes. (Filling should be thickened but still pourable.)</step>
+			<step>Spoon Chocolate Filling over melted marshmallow in piecrust, and spread in an even layer. Loosely cover pie with plastic wrap, and let stand at room temperature 8 hours or overnight. (No need to refrigerate the pie. It is best left at room temperature.)</step>
+			<step>Prepare the Marshmallow Meringue: Fill a medium saucepan one-third full of water, and bring it to a simmer over medium-high. Reduce heat to low, maintaining a simmer.</step>
+			<step>Whisk together egg whites, sugar, light corn syrup, cream of tartar, and salt in a large heatproof bowl. Set bowl over saucepan of simmering water. (Or use a double boiler instead of saucepan and heatproof bowl.) Cook, whisking constantly, until sugar completely dissolves. Remove bowl from heat.</step>
+			<step>Beat mixture with an electric mixer on medium speed until mixture begins to thicken, scraping down sides of bowl often to maintain a smooth texture, 3 to 4 minutes.</step>
+			<step>Increase mixer speed to high, and continue beating and scraping down sides as mixture thickens and becomes smooth and shiny. Continue beating until mixture becomes a glossy meringue that holds its shape, clings to a spoon, forms curly peaks, and leaves tracks from beaters in surface, 5 to 10 minutes.</step>
+			<step>Add vanilla bean paste. Beat on high speed, scraping down sides of bowl often, until meringue starts to lose its glossy shine and develops a sheen, 1 to 2 minutes.</step>
+			<step>Spoon Marshmallow Meringue over top of pie. (Use meringue within 2 to 3 hours for fluffiest texture, or cover and refrigerate for up to 3 days. Meringue will lose a little of its puffiness and loft but remain beautiful, usable, and delicious.)</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="ChocolatePecanPie">
+		<pieName>Chocolate-Pecan Pie</pieName>
+		
+		<ingredient>flour</ingredient>
+		<ingredient>granulated sugar</ingredient>
+		<ingredient>salt</ingredient>
+		<ingredient>butter</ingredient>
+		<ingredient>german's sweet chocolate</ingredient>
+		<ingredient>eggs</ingredient>
+		<ingredient>evaporated milk</ingredient>
+		<ingredient>vanilla extract</ingredient>
+		<ingredient>brown sugar</ingredient>
+		<ingredient>corn syrup</ingredient>
+		<ingredient>pecans</ingredient>
+		<ingredient>coconuts</ingredient>
+		
+		<instruction>
+			<step>Prepare the Crust: Stir together 1 1/2 cups flour, 1/2 tablespoon granulated sugar, and 1/2 teaspoon salt in a large bowl. Using a pastry blender, cut butter and shortening cubes into flour mixture until mixture resembles small peas. Using a fork, gradually stir in 4 tablespoons ice water, stirring until dry ingredients are moistened and dough begins to form a ball and pulls away from sides of bowl, adding up to 1 more tablespoon of water, if necessary. Turn dough out onto a work surface; shape and flatten into a disk. Wrap in plastic wrap, and chill 1 to 24 hours.</step>
+			<step>Preheat oven to 425°F. Unwrap chilled dough disk, and place on a lightly floured surface. Let dough stand at room temperature until slightly softened, about 5 minutes. Sprinkle dough with flour, and roll into a 13-inch circle. Fit dough into a 9-inch glass pie plate. Trim dough, leaving 1/2-inch overhang; fold edges under, and crimp. Prick bottom and sides 8 to 10 times with a fork. Freeze 20 minutes. Line piecrust with parchment paper, and fill with pie weights or dried beans. Bake in preheated oven 14 minutes. Remove weights and parchment paper, and bake until crust has lost its raw dough sheen, 5 to 7 minutes. Transfer to a wire rack, and cool completely, about 30 minutes. Reduce oven temperature to 350°F.</step>
+			<step>Prepare the Chocolate Filling: Microwave German's sweet chocolate and 1/2 cup butter in a microwave-safe bowl on HIGH until melted and smooth, 1 to 1 1/2 minutes, stirring at 30-second intervals. Whisk in 3/4 cup granulated sugar, 3 tablespoons flour, and 1/8 teaspoon salt. Add 2 eggs, 1 at a time, whisking just until blended after each addition. Whisk in evaporated milk and 1 teaspoon vanilla until blended. Pour chocolate filling into prepared piecrust. Shield edges with aluminum foil to prevent excessive browning, and place on a rimmed baking sheet. Bake at 350°F for 30 minutes. (Pie will be partially baked.)</step>
+			<step>Prepare the Coconut-Pecan Filling: Whisk together brown sugar, corn syrup, 1/4 cup melted butter, 2 eggs, and 1 teaspoon vanilla until blended. Stir in pecans and coconut. Beginning at the outer edges of the partially baked chocolate filling, carefully spoon coconut-pecan filling over chocolate filling, and immediately return pie to oven. Bake until crust is golden and center is set, 35 to 40 minutes, shielding edges with aluminum foil to prevent excessive browning, if necessary. Cool pie completely on a wire rack, about 3 hours.</step>
+			<step>Prepare the Chocolate-Covered Pecans: Microwave chocolate chips in a small microwave-safe bowl on HIGH until melted, 30 to 45 seconds, stirring until smooth. Dip the lower half of each pecan into the melted chocolate, allowing excess chocolate to drip back into bowl, and place on a parchment paper-lined baking sheet. Chill until chocolate is firm, about 30 minutes. Arrange Chocolate-Covered Pecans decoratively around outer edge of pie. (You may have some left over.)</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="CranberryApplePie">
+		<pieName>Cranberry Apple Pie</pieName>
+		
+		<ingredient>flour</ingredient>
+		<ingredient>granulated sugar</ingredient>
+		<ingredient>water</ingredient>
+		<ingredient>apples</ingredient>
+		<ingredient>cranberries</ingredient>
+		<ingredient>lemon juice</ingredient>
+		<ingredient>brown sugar</ingredient>
+		<ingredient>salt</ingredient>
+		<ingredient>nutmeg</ingredient>
+		<ingredient>cinnamon</ingredient>
+		<ingredient>eggs</ingredient>
+		
+		<instruction>
+			<step>Prepare the Crust: Pulse flour, granulated sugar, and salt in a food processor until combined, 2 to 3 times. Scatter butter and shortening over flour mixture; pulse until mixture resembles coarse sand, 4 to 5 times. Sprinkle ice water over top; pulse until mixture starts to clump, 4 to 5 times. Transfer mixture to a lightly floured work surface; knead until dough comes together, 4 or 5 times. Wrap one-third of dough with plastic wrap; wrap remaining dough with plastic wrap. Chill 1 hour.</step>
+			<step>Meanwhile, prepare the Filling: Toss together apples, cranberries, and lemon juice in a large bowl. Add granulated sugar, brown sugar, flour, salt, nutmeg, and cinnamon; toss well to coat. Let stand while dough is chilling.</step>
+			<step>Preheat oven to 400°F, with rack in lowest third of oven.</step>
+			<step>Lightly coat a 15- x 10-inch rimmed baking sheet with cooking spray. Unwrap larger dough portion, and roll into a 17- x 12-inch rectangle on a lightly floured surface. Fit dough into bottom and up sides of prepared baking sheet. Tuck edges under and crimp.</step>
+			<step>Unwrap smaller dough portion, and roll into a 15- x 8-inch rectangle. Using a fluted dough cutter, cut dough lengthwise into 16 (15- x 1/2-inch) strips. Transfer apple mixture to piecrust, lightly pressing to flatten surface. Arrange dough strips across top of pie in a lattice pattern. Gently press ends of strips with a fork, sealing to bottom crust. Cut off and discard any excess dough.</step>
+			<step>Using a fork, stir together egg yolk and water in a small bowl. Brush egg mixture on edges of piecrust and across lattice.</step>
+			<step>Bake pie on lowest rack in preheated oven 15 minutes. Without removing pie from oven, reduce heat to 350°F. Bake until golden brown and bubbly, 40 to 45 more minutes. (Shield edges with aluminum foil after 30 minutes, if necessary, to prevent excessive browning.) Serve warm, or cool completely on a wire rack, about 1 hour.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="MangoCreamPie">
+		<pieName>Mango Cream Pie</pieName>
+		
+		<ingredient>nectar</ingredient>
+		<ingredient>butter</ingredient>
+		<ingredient>vanilla extract</ingredient>
+		
+		<instruction>
+			<step>Fit piecrust into a 9-inch pieplate according to package directions; fold edges under and crimp.</step>
+			<step>Bake at 425° for 7 minutes or until lightly browned; cool.</step>
+			<step>Combine nectar and next 5 ingredients in a medium saucepan. Bring to a boil over medium heat, whisking constantly; boil, whisking constantly, 1 minute or until mixture thickens. Remove from heat.</step>
+			<step>Stir in butter and vanilla. Cover tightly with plastic wrap, and cool to room temperature. Spoon mixture into prepared piecrust; cover and chill 8 hours. Garnish, if desired.</step>
+		</instruction>
+	</recipe>
+	
+	<recipe xml:id="PieCrust">
+		<pieName>Pie Crust</pieName>
+	
+		<ingredient>1 1/2 cups (about 5 oz.) almond flour</ingredient>
+		<ingredient>1/2 cup (about 2 1/8 oz.) tapioca flour, plus more for dusting</ingredient>
+		<ingredient>1 teaspoon kosher salt</ingredient>
+		<ingredient>1/4 cup unsalted cold butter, cubed</ingredient>
+		<ingredient>1 large egg, lightly beaten</ingredient>
+		
+	</recipe>
+	
+	<recipe xml:id="PieFilling">
+		<pieName>Pie Filling</pieName>
+		
+		<ingredient>2 cups fresh or bottled grapefruit juice</ingredient>
+		<ingredient>1 1/2 cups granulated sugar</ingredient>
+		<ingredient>1/4 cup tapioca flour</ingredient>
+		<ingredient>1 1/2 teaspoons kosher salt</ingredient>
+		<ingredient>6 large egg yolks</ingredient>
+		<ingredient>1/2 cup (4 oz.) cold butter, cubed</ingredient>
+		<ingredient>2 to 3 drops pink liquid food coloring</ingredient>
+
+	</recipe>
+	
+	<masterIngredient>
+		<ingredient>allpice</ingredient>
+		<ingredient>almonds</ingredient>
+		<ingredient>apples</ingredient>
+		<ingredient>bacon</ingredient>
+		<ingredient>berrries</ingredient>
+		<ingredient>blueberries</ingredient>
+		<ingredient>brown sugar</ingredient>
+		<ingredient>butter</ingredient>
+		<ingredient>butterfingers</ingredient>
+		<ingredient>buttermilk</ingredient>
+		<ingredient>cereal</ingredient>
+		<ingredient>cheddar cheese</ingredient>
+		<ingredient>chocolate chips</ingredient>
+		<ingredient>chocolate syrup</ingredient>
+		<ingredient>cinnamon</ingredient>
+		<ingredient>coconuts</ingredient>
+		<ingredient>coffee liqueur</ingredient>
+		<ingredient>coffee</ingredient>
+		<ingredient>cornstarch</ingredient>
+		<ingredient>cookie butter</ingredient>
+		<ingredient>cookies</ingredient>
+		<ingredient>cooking spray</ingredient>
+		<ingredient>corn syrup</ingredient>
+		<ingredient>cranberries</ingredient>
+		<ingredient>cream cheese</ingredient>
+		<ingredient>cream of tartar</ingredient>
+		<ingredient>cream</ingredient>
+		<ingredient>demerara sugar</ingredient>
+		<ingredient>egg</ingredient>
+		<ingredient>evaporated milk</ingredient>
+		<ingredient>flaky sea salt</ingredient>
+		<ingredient>flour</ingredient>
+		<ingredient>german's sweet chocolate</ingredient>
+		<ingredient>graham crackers</ingredient>
+		<ingredient>granulated sugar</ingredient>
+		<ingredient>half-and-half</ingredient>
+		<ingredient>ice cream</ingredient>
+		<ingredient>jelly</ingredient>
+		<ingredient>juice</ingredient>
+		<ingredient>lavender</ingredient>
+		<ingredient>lemon juice</ingredient>
+		<ingredient>lime juice</ingredient>
+		<ingredient>lime zest</ingredient>
+		<ingredient>maple syrup</ingredient>
+		<ingredient>marshmallows</ingredient>
+		<ingredient>mascarpone cheese</ingredient>
+		<ingredient>nectar</ingredient>
+		<ingredient>nutmeg</ingredient>
+		<ingredient>oreo cookies</ingredient>
+		<ingredient>peanut butter</ingredient>
+		<ingredient>peanuts</ingredient>
+		<ingredient>pears</ingredient>
+		<ingredient>pecans</ingredient>
+		<ingredient>powdered sugar</ingredient>
+		<ingredient>pudding mix</ingredient>
+		<ingredient>pumpkin pie spice</ingredient>
+		<ingredient>pumpkin</ingredient>
+		<ingredient>salt</ingredient>
+		<ingredient>strawberries</ingredient>
+		<ingredient>sugar</ingredient>
+		<ingredient>tapioca flour</ingredient>
+		<ingredient>tapioca</ingredient>
+		<ingredient>vanilla bean paste</ingredient>
+		<ingredient>vanilla extract</ingredient>
+		<ingredient>vanilla</ingredient>
+		<ingredient>vinegar</ingredient>
+		<ingredient>water</ingredient>
+		<ingredient>whipped cream</ingredient>
+		<ingredient>whiskey</ingredient>
+		<ingredient>yogurt</ingredient>
+	</masterIngredient>
+</recipebook>
